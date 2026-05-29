@@ -64,7 +64,3 @@ For backend: npm run dev
 - External APIs: Fyres APIs and NSE APIs
 
 Thank you for considering supporting this project. Your generosity is greatly appreciated! Cheers! ☕️🎉
-
-
-
-# Stockit
