@@ -25,7 +25,7 @@ git clone https://github.com/your-username/stockit.git
 
 2. Install the required dependencies:
 ```
-cd stockify
+cd stockit
 
 cd frontend
   npm install
