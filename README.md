@@ -63,17 +63,6 @@ For backend: npm run dev
 - Database: MongoDB
 - External APIs: Fyres APIs and NSE APIs
 
-## 📷 Screenshots
-
-![Signup](https://github.com/Maran1947/Stockify/assets/69248165/8188c2ec-2543-41a8-be55-23c62983e39e)
-![Signin](https://github.com/Maran1947/Stockify/assets/69248165/44668b73-bd35-4b0d-b660-5a222df7dd43)
-![Account](https://github.com/Maran1947/Stockify/assets/69248165/0285b2f4-baf9-4ee0-a685-35d392f6f091)
-![dashboard_search_scrip](https://github.com/Maran1947/Stockify/assets/69248165/e6dde60f-971a-4cdc-9f3f-33e7beb262f1)
-![dashboard_order_screen](https://github.com/Maran1947/Stockify/assets/69248165/c59aa018-77a1-427e-95fe-bdcc7d6c9af5)
-![dashboard_order_placing](https://github.com/Maran1947/Stockify/assets/69248165/05f097a1-29de-4ae7-9d60-d946def8d335)
-![risk_management_tool](https://github.com/Maran1947/Stockify/assets/69248165/504fcf3e-250a-4665-8abc-60e8e2ed223b)
-
-
 Thank you for considering supporting this project. Your generosity is greatly appreciated! Cheers! ☕️🎉
 
 
