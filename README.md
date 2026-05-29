@@ -100,3 +100,4 @@ Thank you for considering supporting this project. Your generosity is greatly ap
 
 
 
+# Stockit
