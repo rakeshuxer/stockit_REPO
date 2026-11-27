@@ -1,5 +1,8 @@
 const router = require('express').Router();
 const analysisController = require('../../controllers/analysis/AnalysisController');
+const indicesController = require('../../controllers/analysis/IndicesController');
+
+router.get('/indices', indicesController.get_indices);
 
 router.get('/gl', analysisController.get_gainers_loosers);
 router.put('/gl/save', analysisController.get_and_save_gainers_loosers);
