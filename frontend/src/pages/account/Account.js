@@ -57,10 +57,7 @@ function Account() {
           <Typography variant="h3" sx={{
             color: '#fff'
           }} >{
-              userData &&
-                userData.fullName ?
-                userData.fullName.split(' ')[0].toUpperCase()[0] + userData.fullName?.split(' ')[1]?.toUpperCase()[0] :
-                'U'
+              userData?.fullName?.trim()?.charAt(0)?.toUpperCase() || 'U'
             }</Typography>
         </Stack>
         <Stack>
